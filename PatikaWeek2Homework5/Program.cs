@@ -1,4 +1,4 @@
-﻿//bir şarkı sözü yazdırılıyor
+﻿//bir şarkı sözü yazdırılıyor...
 void MethodMusic()
 {
     Console.WriteLine("Şarkı sözü...: Kupkuru bir ağacın dalıyım yapayalnız.");
